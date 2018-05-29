@@ -15,7 +15,7 @@ class Navbar extends Component {
 
 
 <div className="container">
-    <a className="navbar-brand" href="index.html">La Tiendita</a>
+    <a className="navbar-brand" href="index.html">La Tiendita...</a>
     <img src="anasom.png" width="30" height="30" className="d-inline-block align-top" alt="" />
     <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
